@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Profil Ku</string>
+    <string name="mirnadwirafina">Mirna Dwi Rafina</string>
+    <string name="bio">Saya merupakan salah satu mahasiswi di kampus swasta yang cukup di kenal di indonesia, saya mengambil jurusan tekik informatika</string>
+    <string name="profile">Profil Ku</string>
+    <string name="about">Tentang</string>
+    <string name="user_information">Informasi Umum</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="male">Permpuan</string>
+    <string name="age">Umur</string>
+    <string name="_21">20</string>
+    <string name="mobile">No Hp</string>
+    <string name="_91_9000000009">+62 857-1310-7028</string>
+    <string name="email">Email</string>
+    <string name="axxxxxxa_gmail_com">miradwirafina01@gmail.com</string>
+    <string name="social_media">Social Media</string>
+</resources>
